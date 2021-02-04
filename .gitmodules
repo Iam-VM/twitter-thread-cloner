@@ -1,0 +1,6 @@
+[submodule "twitter-thread-cloner-frontend"]
+	path = twitter-thread-cloner-frontend
+	url = git@github.com:Iam-VM/twitter-thread-cloner-frontend.git
+[submodule "twitter-thread-cloner-backend"]
+	path = twitter-thread-cloner-backend
+	url = git@github.com:Iam-VM/twitter-thread-cloner-server.git
