@@ -22,6 +22,10 @@
 * Socket.io
 * CSS
 
+## Where is it hosted ?
+
+It is hosted in an AWS EC2 instance.
+
 ## Some Information
 * This project is built with the tools as listed in the **Built With** section.
 * The frontend application is built with **React**, using create-react-app for generating a pre-configured build setup.
