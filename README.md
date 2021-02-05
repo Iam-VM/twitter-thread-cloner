@@ -5,7 +5,7 @@
 
 * Twitter-Thread-Cloner (TTC) is a website service that helps in downloading a twitter thread post in PDF, TXT and ZIP formats.
   
-![TTC Screenshot](https://github.com/Iam-VM/twitter-thread-cloner/doc/ttc-screenshot.png?raw=true)
+![TTC Screenshot](https://github.com/Iam-VM/twitter-thread-cloner/blob/master/doc/ttc-screenshot.png?raw=true)
  
 ## How to use the website ?
 
